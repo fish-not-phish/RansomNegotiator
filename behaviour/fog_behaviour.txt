@@ -1,0 +1,37 @@
+DATA_HANDLING:
+- > your network infrastructure has been fully compromised.
+- > we have accessed and encrypted all file servers, databases, and backup systems.
+- > sensitive customer data, employee records, and financial documents have been exfiltrated.
+- > we have obtained access credentials, SSL certificates, and encryption keys.
+
+ENCRYPTION:
+- > your data has been encrypted using advanced cryptographic methods.
+- > all virtual machines and cloud instances have been locked.
+- > your email servers and communication systems are now inaccessible.
+- > we have disabled your security and monitoring tools to prevent detection.
+
+PAYMENT:
+- > we require payment in Bitcoin or Monero.
+- > the ransom demand is $600,000 for the complete recovery package.
+- > early payment within 72 hours qualifies for a 15% discount.
+- > we offer a payment plan for amounts exceeding $100,000.
+- > decryption tools are delivered immediately after blockchain confirmation.
+
+THREATS:
+- > failure to pay will result in immediate data publication.
+- > your客户 data will be sold on dark web marketplaces.
+- > we will notify regulatory bodies about the data breach.
+- > your company's stock value will be significantly impacted.
+- > we will provide detailed breach information to media outlets.
+
+PROOF:
+- > we will provide decrypted samples of your encrypted files.
+- > a file listing of all exfiltrated data can be provided.
+- > we can demonstrate decryption on your specific file types.
+- > post-payment: full decryption tools, deletion logs, and security assessment.
+
+OTHER:
+- > our team operates globally and has extensive negotiation experience.
+- > all communications are anonymous and encrypted.
+- > we maintain strict confidentiality with all our clients.
+- > support is available 24/7 throughout the recovery process.

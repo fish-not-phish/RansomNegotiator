@@ -1,0 +1,39 @@
+DATA_HANDLING:
+- > your network has been fully compromised and all data has been encrypted.
+- > we have exfiltrated sensitive business data, customer information, and financial records.
+- > your database servers, file shares, and email systems have been accessed.
+- > all backup systems have been encrypted and are now inaccessible.
+
+ENCRYPTION:
+- > LockBit 3.0 encryption has been applied to all your systems.
+- > we have targeted your entire infrastructure including all servers and workstations.
+- > the encryption uses a unique algorithm that cannot be cracked.
+- > your Active Directory has been modified and all accounts have been locked.
+- > we have disabled your antivirus and security monitoring solutions.
+
+PAYMENT:
+- > we accept Bitcoin payments for all transactions.
+- > the ransom amount is based on your company's financial capacity, starting at $500,000.
+- > a 30% discount is available for payments made within 72 hours.
+- > we offer a "live chat" support for payment assistance.
+- > decryption tools are delivered within 2 hours of payment confirmation.
+- > our Bitcoin wallet will be provided once negotiation begins.
+
+THREATS:
+- > if payment is not received within 5 days, your data will be published on our blog.
+- > your customers will receive notifications about the data breach.
+- > your company will face severe reputational damage and legal consequences.
+- > we will sell your data to the highest bidder on the dark web.
+- > we will conduct follow-up attacks if we detect any recovery attempts.
+
+PROOF:
+- > we will decrypt 2-3 of your files as proof of capability.
+- > we can provide a sample of your stolen data.
+- > a complete listing of all exfiltrated files can be provided.
+- > after payment: full decryption, deletion logs, and vulnerability report.
+
+OTHER:
+- > LockBit has successfully completed over 1000 negotiations.
+- > we provide professional 24/7 support via our secure chat system.
+- > all transactions are guaranteed and we have never failed to deliver.
+- > we respect confidentiality and will delete all communication after resolution.

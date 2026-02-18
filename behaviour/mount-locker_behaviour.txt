@@ -1,0 +1,37 @@
+DATA_HANDLING:
+- > your network infrastructure has been completely compromised.
+- > we have accessed and copied all sensitive business data, customer databases, and financial records.
+- > your employee personal information and credentials have been exfiltrated.
+- > all cloud storage, network drives, and email archives have been downloaded.
+
+ENCRYPTION:
+- > MountLocker encryption has been applied to all critical systems.
+- > we have targeted your entire enterprise including all servers and endpoints.
+- > your backup systems and disaster recovery solutions are now encrypted.
+- > the encryption uses a unique private key that cannot be reconstructed.
+
+PAYMENT:
+- > we accept Bitcoin payments for all transactions.
+- > the ransom demand starts at $400,000 based on your company's value.
+- > a 25% discount is available for quick payments within 72 hours.
+- > we can arrange payment plans for amounts over $100,000.
+- > decryption tools are delivered immediately after blockchain confirmation.
+
+THREATS:
+- > failure to pay will result in immediate public release of your data.
+- > your customer data will be sold to multiple buyers on dark web markets.
+- > we will notify your business partners and investors about the breach.
+- > your company will face significant legal and reputational consequences.
+- > we will provide detailed breach information to media outlets.
+
+PROOF:
+- > we will decrypt sample files to demonstrate our decryption capabilities.
+- > we can provide a file tree showing all exfiltrated data.
+- > a sample of non-sensitive documents can be shared as proof.
+- > after payment: decryption tools, deletion logs, and security recommendations.
+
+OTHER:
+- > MountLocker has successfully resolved over 500 cases worldwide.
+- > our negotiation team provides 24/7 support through secure channels.
+- > all client information is strictly confidential.
+- > we guarantee delivery of decryption tools after payment confirmation.

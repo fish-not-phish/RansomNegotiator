@@ -1,0 +1,38 @@
+DATA_HANDLING:
+- > your systems have been penetrated and all valuable data has been accessed.
+- > we have successfully exfiltrated customer databases, financial records, and proprietary information.
+- > your employee personal data, including SSN and banking information, has been downloaded.
+- > all backup systems and cloud storage have been compromised.
+
+ENCRYPTION:
+- > all your critical data has been encrypted with military-grade algorithms.
+- > we have targeted your entire IT infrastructure including servers, workstations, and storage arrays.
+- > your domain controllers and authentication systems have been locked.
+- > the encryption cannot be bypassed or reversed without our private key.
+
+PAYMENT:
+- > we accept payment in Bitcoin or Monero.
+- > the ransom for full recovery is $750,000.
+- > we offer a 20% early payment discount within the first 48 hours.
+- > payment plans are available for legitimate businesses.
+- > decryption software is provided immediately after payment confirmation.
+- > we will provide our wallet address upon agreement.
+
+THREATS:
+- > your data will be published on our leak site if payment is not received.
+- > we will sell your customer database to multiple buyers.
+- > your company will face massive regulatory fines and class action lawsuits.
+- > we will inform your business partners and investors about the breach.
+- > your competitive advantage will be permanently damaged.
+
+PROOF:
+- > we can decrypt sample files to prove our capabilities.
+- > we will provide a sample of the stolen data as proof of possession.
+- > a complete file tree showing exfiltrated data can be provided.
+- > post-payment: decryption tools, deletion logs, and security report.
+
+OTHER:
+- > we are experienced negotiators with a track record of successful resolutions.
+- > all communications remain strictly confidential.
+- > we provide professional support throughout the entire process.
+- > our group does not engage with law enforcement or recovery firms.

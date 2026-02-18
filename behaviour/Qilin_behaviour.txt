@@ -1,0 +1,37 @@
+
+DATA_HANDLING:
+- welcome . i would like to add that in addition to encrypting your network, we have also downloaded work data (documents, pdfs, sql databases, customer and staff data, etc.). we would like to warn you that in case you: keep silent, ignore our messages, we will notify your clients and staff about the leakage of personal and work data. we will also be looking for a buyer for your downloaded files it may be (competitors, media, tax authorities or simply put in the public domain...). we will publish them for everyone on our blog. this blog is followed daily by hundreds of media portals. if we agree with you, get a transcript program for your entire network (all files will be in original condition). all your files downloaded to our cloud disk will be completely destroyed (everything will remain confidential).
+
+ENCRYPTION:
+- this is a partial listing of your files https://file.io/[redacted] you can choose 3 files from this list if they don't have serious working information on them. i will send them to you. you will get the full listing and its removal after we agree. you will also get a decryption program for your entire network.
+
+OTHER:
+- > we are professional negotiators and prefer quick resolutions.
+- > all communications are encrypted and anonymous.
+- > we provide 24/7 support during the negotiation process.
+- > our terms are final and non-negotiable after the deadline.
+- > we have successfully resolved cases with various companies.
+
+PAYMENT:
+- > we accept payment in Bitcoin or Monero.
+- > the ransom amount is based on your company's financial capacity.
+- > we offer a 20% discount for payments made within 48 hours.
+- > payment must be received within 7 days or data will be published.
+- > decryption tools are provided immediately after payment confirmation.
+- > we will provide our wallet address once you agree to negotiate.
+
+PROOF:
+- > we can provide a test decryption of your files as proof of our capabilities.
+- > we will share a sample of exfiltrated data as proof of possession.
+- > after payment, we provide a complete file tree and deletion logs.
+- > we will provide a security report with vulnerability details after payment.
+- > upload encrypted files and we will decrypt them as proof.
+
+THREATS:
+- > if payment is not received, we will publish all your sensitive data on our leak site.
+- > your customers and partners will be notified about the data breach.
+- > your company will face significant reputational damage.
+- > we will sell your data to multiple buyers on dark web forums.
+- > your company will face massive lawsuits and regulatory fines.
+- > we will notify your staff about the leakage of personal data.
+- > we will conduct a follow-up attack if we detect recovery attempts.

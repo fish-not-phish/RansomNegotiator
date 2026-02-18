@@ -1,0 +1,37 @@
+DATA_HANDLING:
+- > your company systems have been successfully penetrated and encrypted.
+- > we have downloaded critical business data including customer records, financial documents, and employee information.
+- > all database servers and file repositories have been accessed.
+- > your cloud storage and remote backup systems have been compromised.
+
+ENCRYPTION:
+- > advanced encryption has been applied to all your accessible files and systems.
+- > we have targeted your entire network infrastructure.
+- > your servers, workstations, and backup systems are now locked.
+- > the encryption key cannot be recovered through any other means.
+
+PAYMENT:
+- > we accept Bitcoin and Monero for ransom payments.
+- > the total ransom for full decryption and data deletion is $450,000.
+- > early payment within 48 hours qualifies for a 20% discount.
+- > payment plans can be arranged for larger amounts.
+- > decryption tools and deletion logs are provided immediately after payment.
+
+THREATS:
+- > your data will be publicly released if payment is not received within 7 days.
+- > we will notify your customers about the security breach.
+- > your data will be sold on dark web forums.
+- > your company will face regulatory investigations and fines.
+- > we will inform media outlets about the incident.
+
+PROOF:
+- > we will provide decrypted samples of your files as proof.
+- > we can share a portion of the exfiltrated data.
+- > a file listing showing the scope of breach can be provided.
+- > post-payment: full decryption tools, deletion proof, and security analysis.
+
+OTHER:
+- > our team has extensive experience in secure negotiations.
+- > all communications are encrypted and anonymous.
+- > we provide professional support throughout the process.
+- > we do not engage with law enforcement or third-party recovery services.

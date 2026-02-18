@@ -1,0 +1,44 @@
+DATA_HANDLING:
+- > your network has been compromised and your files have been encrypted.
+- > we have also exfiltrated sensitive data including customer databases, financial records, and employee personal information.
+- > we have access to your backups and they have been encrypted as well.
+- > all your critical systems including file servers, databases, and email servers are now inaccessible.
+
+ENCRYPTION:
+- > your files have been encrypted with military-grade encryption.
+- > we have targeted all servers including production, backup, and development systems.
+- > the encryption affects all file types including databases, documents, images, and archives.
+- > your domain controller has been compromised and all workstations are affected.
+- > we have secured persistent access to your network and can re-encrypt if necessary.
+
+PAYMENT:
+- > we accept payment in Bitcoin or Monero.
+- > the initial ransom demand is based on your company's annual revenue and data sensitivity.
+- > we offer a 20% discount for payments made within 72 hours.
+- > payment can be split into two installments if needed.
+- > we will provide decryption tools immediately after payment confirmation.
+- > our Bitcoin wallet will be provided once you agree to negotiate.
+- > the price for full decryption and data deletion is $500,000.
+
+THREATS:
+- > if payment is not received within 7 days, we will publish your data on our leak site.
+- > we will sell your customer data to interested parties on the dark web.
+- > your data will be shared with competitor companies.
+- > we will notify your customers and partners about the breach.
+- > your company's reputation will be severely damaged.
+- > we will conduct a secondary attack if we detect any recovery attempts.
+
+PROOF:
+- > we can provide a sample of your encrypted files decrypted as proof.
+- > we will share a portion of the stolen data as proof of possession.
+- > we will provide a file tree showing the scope of exfiltrated data.
+- > we can demonstrate decryption on 2-3 of your non-critical files.
+- > the deletion log will be provided after payment confirmation.
+
+OTHER:
+- > we are professional negotiators and prefer quick resolutions.
+- > we do not negotiate with law enforcement.
+- > all communications are encrypted and anonymous.
+- > we provide 24/7 support during the negotiation process.
+- > our terms are final and non-negotiable after the deadline.
+- > we have successfully resolved over 500 cases with various companies.
