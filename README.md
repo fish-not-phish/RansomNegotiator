@@ -95,7 +95,7 @@ cp example.env .env
 ```bash
 # Rebuild after code changes
 docker build -t ransomnegotiator/backend:latest --build-arg VERSION=latest ./backend
-docker build -t ransomnegotiator/frontend:latest --build-arg NEXT_PUBLIC_API_URL=http://backend:8000 --build-arg NEXT_PUBLIC_BASE_URL=http://backend:8000 ./frontend
+docker build -t ransomnegotiator/frontend:latest --build-arg NEXT_PUBLIC_API_URL=http://127.0.0.1:8000 --build-arg NEXT_PUBLIC_BASE_URL=http://127.0.0.1:8000 ./frontend
 
 docker compose up -d
 
