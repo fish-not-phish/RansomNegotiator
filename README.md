@@ -1,6 +1,6 @@
 # RansomNegotiator 🔐💻
 
-> A **modern web-based** ransomware negotiation simulator powered by AI
+> A **modern web-based** ransomware negotiation simulator powered by local AI
 
 ---
 
